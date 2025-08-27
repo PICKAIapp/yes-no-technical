@@ -1,13 +1,13 @@
 {
-  "name": "@pickai/technical-infrastructure",
+  "name": "@yes-no/technical-infrastructure",
   "version": "1.0.0",
   "description": "Advanced prediction market infrastructure with AI-powered oracles",
   "private": false,
   "license": "MIT",
-  "author": "PICKAI Team",
+  "author": "yes-no.fun Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xsicckkooo/pickai-technical"
+    "url": "https://github.com/0xsicckkooo/yes-no-technical"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

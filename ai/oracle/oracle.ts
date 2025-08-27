@@ -1,5 +1,5 @@
 /**
- * PICKAI AI Oracle System
+ * yes-no.fun AI Oracle System
  * Advanced prediction market intelligence using multi-source AI aggregation
  * 
  * This module implements a sophisticated oracle system that combines:

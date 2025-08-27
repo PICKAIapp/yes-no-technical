@@ -1,8 +1,8 @@
-# PICKAI Technical Architecture
+# Yes-No technical
 
 ## Advanced Prediction Market Infrastructure
 
-PICKAI implements cutting-edge algorithms and AI-driven systems for skill-based prediction markets. This repository contains the technical infrastructure powering our decentralized betting platform.
+yes-no.fun implements cutting-edge algorithms and AI-driven systems for skill-based prediction markets. This repository contains the technical infrastructure powering our decentralized betting platform.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Mainnet-green)](https://solana.com)
@@ -121,7 +121,7 @@ Advanced news impact scoring with:
 
 ```
 ┌─────────────────────────────────────────────┐
-│                   PICKAI Core                │
+│                   yes-no.fun Core                │
 ├─────────────────────────────────────────────┤
 │                                             │
 │  ┌─────────────┐         ┌──────────────┐ │
@@ -274,9 +274,9 @@ We welcome contributions! Please see CONTRIBUTING.md for guidelines.
 
 ## 🔗 Links
 
-- [Technical Blog](https://pickai.tech/blog)
-- [Research Papers](https://pickai.tech/research)
-- [API Documentation](https://docs.pickai.tech)
+- [Technical Blog](https://yes-no.tech/blog)
+- [Research Papers](https://yes-no.tech/research)
+- [API Documentation](https://docs.yes-no.tech)
 - [Solana Programs](https://explorer.solana.com/address/...)
 
 ---

@@ -1,5 +1,5 @@
 /**
- * PICKAI Advanced Market Making Algorithm
+ * yes-no.fun Advanced Market Making Algorithm
  * Implements sophisticated automated market making with dynamic pricing
  * 
  * Features:

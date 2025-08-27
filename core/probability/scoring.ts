@@ -1,4 +1,4 @@
-// scoring.ts - Skill-based scoring system for PICKAI
+// scoring.ts - Skill-based scoring system for yes-no.fun
 export type LiquidityTier = 1 | 2 | 3;
 
 export type PickInput = {

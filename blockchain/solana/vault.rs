@@ -7,12 +7,12 @@ use solana_program::{
 };
 use std::mem::size_of;
 
-declare_id!("PICKAIvau1txxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+declare_id!("yes-no.funvau1txxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 
-/// PICKAI Vault Program
+/// yes-no.fun Vault Program
 /// Implements secure, non-custodial betting vault with advanced cryptographic features
 #[program]
-pub mod pickai_vault {
+pub mod yes-no_vault {
     use super::*;
 
     /// Initialize the vault with merkle root verification
