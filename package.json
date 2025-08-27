@@ -1,0 +1,56 @@
+{
+  "name": "@pickai/technical-infrastructure",
+  "version": "1.0.0",
+  "description": "Advanced prediction market infrastructure with AI-powered oracles",
+  "private": false,
+  "license": "MIT",
+  "author": "PICKAI Team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xsicckkooo/pickai-technical"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:unit": "jest --testMatch='**/*.unit.test.ts'",
+    "test:integration": "jest --testMatch='**/*.integration.test.ts'",
+    "bench": "node benchmarks/index.js",
+    "audit": "npm audit --audit-level=moderate",
+    "lint": "eslint . --ext .ts,.tsx"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0",
+    "@solana/web3.js": "^1.87.0",
+    "@solana/spl-token": "^0.3.9",
+    "bn.js": "^5.2.1",
+    "crypto-js": "^4.2.0",
+    "ethers": "^6.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0",
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.0",
+    "ts-node": "^10.9.0",
+    "eslint": "^8.55.0"
+  },
+  "keywords": [
+    "prediction-markets",
+    "blockchain",
+    "solana",
+    "defi",
+    "amm",
+    "oracle",
+    "ai",
+    "machine-learning",
+    "kelly-criterion",
+    "market-making",
+    "zero-knowledge",
+    "byzantine-consensus"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
